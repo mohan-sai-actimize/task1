@@ -1,0 +1,39 @@
+body{
+    font-family:arial;
+    background-image: url(../images/background.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.main-heading{
+    background-color: rgba(255, 255, 255, 0.3);
+    text-align: center;
+    font-size: 40px;
+    color: rgb(1, 158, 255);
+    border: solid 3px rgb(68, 45, 45);
+    padding: 10px 50px 10px 50px;
+}
+main{
+    color:rgb(87, 86, 86);
+}
+div{
+    background-color: rgba(255, 255, 255, 0.3)
+}
+img{
+    margin-right: 30px;
+}
+p{
+    text-indent:50px;
+}
+button{
+    background-color: antiquewhite;
+    color:rgb(1, 158, 255);
+    border: solid 1px rgb(1, 158, 255);
+    padding: 10px 20px 10px 20px;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+button:hover{
+    cursor:pointer;
+}
